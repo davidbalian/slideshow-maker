@@ -85,6 +85,10 @@ h6 {
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* HEADER STYLING */
 header {
   background-color: var(--blue);
